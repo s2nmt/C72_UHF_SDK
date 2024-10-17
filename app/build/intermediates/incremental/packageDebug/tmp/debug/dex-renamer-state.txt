@@ -1,0 +1,4 @@
+#Fri Nov 24 13:33:49 ICT 2023
+base.0=C\:\\Users\\Minh Tuan\\Downloads\\yazaki_led_controller_iot-software\\yazaki_led_controller_iot-software\\5.apk_yazaki\\uhf-uart-demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
